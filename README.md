@@ -1,2 +1,2 @@
-# C25
-Angry Birds - basic stage w/ pics
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
